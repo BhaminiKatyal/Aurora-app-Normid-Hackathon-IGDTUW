@@ -1,9 +1,9 @@
 # Aurora-app-Normid-Hackathon-IGDTUW
 Aurora is the design of a mobile app which allows organizers to plan, organize, analyze and promote their astronomical events. It also allows users to check out events, register for them, give feedback, chat with other attendees and get personalized recommendations for events.
 
-TECHNOLOGIES USED
-Figma- For designing UI of the project
-CANVA- For the presentation and outline of the project
+TECHNOLOGIES USED:
+- Figma- For designing UI of the project
+- CANVA- For the presentation and outline of the project
 
 FEATURES FOR THE ORGANIZER:
 - Check astronomical events marked on a calendar
@@ -37,10 +37,13 @@ This is the link to the video demonstration of the project: https://drive.google
 PRESENTATION LINK:
 https://www.canva.com/design/DAFeOhaYSAs/fQHcRiTC6SZHPHse-pgtcA/edit?utm_content=DAFeOhaYSAs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+FIGMA LINK:
+https://www.figma.com/file/XuwkBx1j0d5ERAHRMH2Tcv/code-warriors?type=design&node-id=0-1&t=WLw5kEq3KAMnjaKd-0
+
 TEAM MEMBERS:
-Bhamini Katyal
-Shrishti Sharma 
-Aarushi Singh
-Jyotika Jaichand
+- Bhamini Katyal
+- Shrishti Sharma 
+- Aarushi Singh
+- Jyotika Jaichand
   
   
